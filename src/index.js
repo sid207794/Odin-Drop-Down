@@ -25,3 +25,5 @@ class dropDown {
     });
   }
 }
+
+export default dropDown;

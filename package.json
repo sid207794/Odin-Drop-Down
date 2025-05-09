@@ -15,5 +15,23 @@
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
-  }
+  },
+  "main": "dist/main.bundle.js",
+  "name": "toggle-menu",
+  "version": "1.0.0",
+  "description": "A javaScript class to toggle a menu visibility.",
+  "files": [
+    "dist/",
+    "README.md"
+  ],
+  "author": "Siddharth Singh <sid207794@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sid207794/Odin-Drop-Down"
+  },
+  "keywords": [
+    "menu",
+    "toggle",
+    "javaScript"
+  ]
 }
