@@ -1,6 +1,5 @@
 const path = require("path");
 const htmlWebpackPlugin = require("html-webpack-plugin");
-const flatpickr = require("flatpickr");// require("flatpickr/dist/themes/material_blue.css");
 
 module.exports = {
     entry: "./src/index.js",
