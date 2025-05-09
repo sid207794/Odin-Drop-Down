@@ -17,7 +17,7 @@
     "build": "webpack --config webpack.prod.js"
   },
   "main": "dist/main.bundle.js",
-  "name": "sid207794/toggle-menu",
+  "name": "@sid207794/toggle-menu",
   "version": "1.0.0",
   "description": "A javaScript class to toggle a menu visibility.",
   "files": [
